@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">I'm Grace, a full-time cyber security analysts 👨‍💻 working remotely since 2021🚀</div>  
+### <div align="center">I'm Grace, full stack developer,network enginner 👨‍💻 working remotely since 2021🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
